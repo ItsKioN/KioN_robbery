@@ -85,7 +85,7 @@ Target = {
     debugTargets = false,
     LabelKasir = 'Bobol Mesin Kasir',
     IconKasir = 'fas fa-lock',
-    LabelBrangkas = 'Unlock',
+    LabelBrangkas = 'Buka Brangkas',
     IconBrangkas = 'fas fa-key'
 }
 
